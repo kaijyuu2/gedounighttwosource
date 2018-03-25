@@ -1,0 +1,9 @@
+{"english":
+	{
+		"a_test_string":"Here's some english!"
+	},
+"日本語":
+	{
+		"a_test_string":"Here's some not japanese!"
+	}
+}
